@@ -239,3 +239,7 @@ Transaction ID,Date,Product Category,Product Name,Units Sold,Unit Price,Total Re
 10238,2024-08-25,Books,The Handmaid's Tale by Margaret Atwood,3,10.99,32.97,North America,Credit Card
 10239,2024-08-26,Beauty Products,Sunday Riley Luna Sleeping Night Oil,1,55,55,Europe,PayPal
 10240,2024-08-27,Sports,Yeti Rambler 20 oz Tumbler,2,29.99,59.98,Asia,Credit Card
+10197,2024-07-15,Beauty Products,Tom Ford Black Orchid Perfume,1,125,125,Europe,PayPal
+10198,2024-07-16,Sports,GoPro HERO9 Black,1,449.99,449.99,Asia,Credit Card
+10199,2024-07-17,Electronics,Apple TV 4K,2,179,358,North America,Credit Card
+10200,2024-07-18,Home Appliances,Instant Pot Duo Nova,1,99.95,99.95,Europe,PayPal
