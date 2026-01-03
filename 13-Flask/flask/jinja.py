@@ -1,7 +1,3 @@
-## building url dynamically
-## variable rule
-## jinja 2 template engine
-
 ### Building Url Dynamically
 ## Variable Rule
 ### Jinja 2 Template Engine
