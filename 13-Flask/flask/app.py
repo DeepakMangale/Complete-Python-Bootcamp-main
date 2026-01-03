@@ -10,7 +10,7 @@ app=Flask(__name__)
 
 @app.route("/")
 def welcome():
-    return "welcome to falsk cours this should be a good course"
+    return "welcome to falsk cours"
 ## make another route 
 @app.route("/index")
 def index():
