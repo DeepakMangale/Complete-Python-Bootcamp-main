@@ -7,3 +7,4 @@ flask
 memory-profiler
 jinja2
 streamlit
+scikit-learn
